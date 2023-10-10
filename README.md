@@ -6,7 +6,7 @@ Tengo 21 años, resido en Argentina y actualmente termine el bootcamp de desarro
 
 
 Habilidades: Javascript/ React / Redux / HTML / CSS// SQL/ MongoDB/Nodejs
-
+Si te llama la atencion mi perfil ¡No dudes en contactarme! Aqui abajo te dejo algunas de mis redes sociales
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alemannc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicolas-castellano-54b22b272/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nicolascaste_/)  
