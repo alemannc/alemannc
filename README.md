@@ -7,7 +7,7 @@ Tengo 21 años, resido en Argentina y actualmente termine el bootcamp de desarro
 En la parte laboral siempre estuve en puestos relacionados a la atención al cliente como repositor en un super, Barman en una cervecería y actualmente me encuentro como recepcionista en un hotel donde realizo múltiples tareas como atención al cliente, manejo de sistema, responder consultas, etc. Seria genial poder aplicar para cualquier trabajo relacionado al desarrollo web ya que es lo que me apasiona y también estoy interesado en pasantías para poder adquirir experiencia.
 
 
-Habilidades: Javascript/ React / Redux / HTML / CSS// SQL/ MongoDB/Nodejs
+Habilidades: Javascript/ React / Redux / HTML / CSS/Express/ SQL/ MongoDB/Nodejs
 
 Si te llama la atencion mi perfil ¡No dudes en contactarme!
 Aqui abajo te dejo algunas de mis redes sociales
