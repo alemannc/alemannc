@@ -4,7 +4,7 @@
 
 Tengo 21 años, resido en Argentina y actualmente termine el bootcamp de desarrollo web full stack SoyHeanry donde gracias a ello además de aprender múltiples tecnologías también pude descubrir mi pasión por el desarrollo web. Mi área de trabajo preferida es el backEnd pero puedo adaptarme a otros entornos sin mayores problemas. 
 
-En la parte laboral siempre estuve en puestos relacionados a la atención al cliente como repositor en un super, Barman en una cervecería y actualmente me encuentro como recepcionista en un hotel donde realizo múltiples tareas como atención al cliente, manejo de sistema, responder consultas, etc. Seria genial poder aplicar para cualquier trabajo relacionado al desarrollo web ya que es lo que me apasiona y también estoy interesado en pasantías para poder adquirir experiencia.
+ Seria genial poder aplicar para cualquier trabajo relacionado al desarrollo web ya que es lo que me apasiona y también estoy interesado en pasantías para poder adquirir experiencia.
 
 
 Habilidades: Javascript/ React / Redux / HTML / CSS/Express/ SQL/ MongoDB/Nodejs
