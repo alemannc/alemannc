@@ -7,7 +7,7 @@ Tengo 21 años, resido en Argentina y actualmente termine el bootcamp de desarro
  Seria genial poder aplicar para cualquier trabajo relacionado al desarrollo web ya que es lo que me apasiona y también estoy interesado en pasantías para poder adquirir experiencia.
 
 
-Habilidades: Javascript/ React / Redux / HTML / CSS/Express/ PosgretSQL/ Sequelize/ MongoDB/Nodejs
+Habilidades: Javascript/ React / Redux / HTML / CSS/Express/ PosgretSQL/ Sequelize/ MongoDB/Nodejs/AWS (lambda y S3 conocimientos basicos)/actualmente estudiando GO
 
 Si te llama la atencion mi perfil ¡No dudes en contactarme!
 Aqui abajo te dejo algunas de mis redes sociales
