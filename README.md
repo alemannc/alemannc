@@ -2,7 +2,7 @@
 #### Un apasionado del desarrollo web backEnd
 
 
-Tengo 21 años, resido en Argentina y actualmente termine el bootcamp de desarrollo web full stack SoyHeanry donde gracias a ello además de aprender múltiples tecnologías también pude descubrir mi pasión por el desarrollo web. Mi área de trabajo preferida es el backEnd pero puedo adaptarme a otros entornos sin mayores problemas. 
+Tengo 22 años, resido en Argentina y actualmente termine el bootcamp de desarrollo web full stack SoyHeanry donde gracias a ello además de aprender múltiples tecnologías también pude descubrir mi pasión por el desarrollo web. Mi área de trabajo preferida es el backEnd pero puedo adaptarme a otros entornos sin mayores problemas. 
 
  Seria genial poder aplicar para cualquier trabajo relacionado al desarrollo web ya que es lo que me apasiona y también estoy interesado en pasantías para poder adquirir experiencia.
 
